@@ -94,7 +94,9 @@ import {
               fontSize={'sm'}
               rounded={'full'}
               bg={'green.400'}
-
+              _hover={{
+                bg: 'green.500',
+              }}
               _focus={{
                 bg: 'green.800',
               }}>

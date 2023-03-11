@@ -1,11 +1,32 @@
 {
   "user": [
     {
-      "Username": "Anj",
-      "Avatar_URL": ".com",
-      "Full_Name": "Anj/kus",
-      "Email": "anjna4523@gmai.com",
-      "Password": "1234"
+      "id": 1,
+      "userName": "",
+      "fullName": "",
+      "email": "",
+      "password": "",
+      "confirmPassword": "",
+      "avatar": ""
+    },
+    {
+      "userName": "anj123",
+      "fullName": "Anjana Kushwaha ",
+      "email": "anjanak051995@gmail.com",
+      "password": "14253678",
+      "avatar": "1234",
+      "id": 2
+    },
+    {
+      "userName": "anj123",
+      "fullName": "Anjana Kushwaha ",
+      "email": "anjanak051995",
+      "password": "14253678",
+      "avatar": "1234",
+      "id": 3
     }
+  ],
+  "post": [
+    {}
   ]
 }
