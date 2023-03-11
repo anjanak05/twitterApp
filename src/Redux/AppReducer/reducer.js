@@ -8,6 +8,7 @@ const initState = {
   export const reducer = (state = initState, action) => {
     const { type, payload } = action;
     switch (type) {
+        
       case "loginLoading":
         return {
           ...state,
